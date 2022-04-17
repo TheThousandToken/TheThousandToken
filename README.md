@@ -1,4 +1,6 @@
-### Hi there 👋
+### TheThousand - THOU a Zilliqa blockain token
+
+#### https://thethousand.zil (requires Unstoppable Extension)
 
 <!--
 **TheThousandToken/TheThousandToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
