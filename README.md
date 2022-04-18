@@ -2,6 +2,8 @@
 
 #### https://thethousand.zil (requires Unstoppable Extension)
 
+#### NFTs - https://zilswap.io/arky/collections/zil17kd0k6k37xe9rjgq0lvu6dvx8awyelhd9vv4ch?search=&sortBy=price&sortDir=asc
+
 <!--
 **TheThousandToken/TheThousandToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
